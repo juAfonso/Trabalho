@@ -14,7 +14,7 @@ namespace Aula01._1bim
         public AdivinharNumero()
         {
             Random random = new Random();
-            int numeroSorteado = random.Next(0, 100);
+            numeroSorteado = random.Next(0, 100);
         }
 
 
